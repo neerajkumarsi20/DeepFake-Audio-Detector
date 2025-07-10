@@ -2,3 +2,4 @@ streamlit
 librosa
 tensorflow
 numpy
+streamlit-audiorec
